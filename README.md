@@ -1,6 +1,6 @@
 # python-api-challenge
 
-This analysis aims to answer the following question using tools such as Python, JSON, and API: What is the weather like as we approach the equator?
+The purpose of this analysis is to answer the following question using tools such as Python, JSON, and API: What is the weather like as we approach the equator?
 
 ## Tools needed to become an expert in weather analysis:
 
@@ -8,7 +8,7 @@ This analysis aims to answer the following question using tools such as Python, 
 
 * Clone the newly created repository to your local computer.
 
-* Within your local Git repository, establish a directory dedicated to this assignment, naming it by the Challenges, e.g., WeatherPy.
+* Within your local Git repository, establish a directory dedicated to this assignment, naming it in accordance with the Challenges, e.g., WeatherPy.
 
 * Inside the designated folder, incorporate the provided files api_keys.py, WeatherPy.ipynb, and  VacationPy.ipynb from the starter code ZIP file.
 
@@ -32,7 +32,7 @@ This analysis aims to answer the following question using tools such as Python, 
 
 * Utilize git add, git commit, and git push commands to commit the modifications to the .gitignore, WeatherPy.ipynb, and VacationPy.ipynb files to GitHub.
 
-* Upon inspection on GitHub, only WeatherPy.ipynb and VacationPy.ipynb files should be visible as new Python files.
+* Upon inspection on GitHub, only WeatherPy.ipynb and VacationPy.ipynb files should be visible as new python files.
     
 # Part 1: WeatherPy
 
@@ -62,7 +62,7 @@ Approach: Employ problem-solving skills to model weather patterns across cities.
 
 * Divide plots into Northern Hemisphere (≥ 0° latitude) and Southern Hemisphere (< 0° latitude).
 
-* Define a function to facilitate the creation of linear regression plots.
+* Define a function to facilitate creation of linear regression plots.
 
 * Generate scatter plots for the following pairs, including linear regression lines, model formulas, and r values:
 
@@ -82,11 +82,11 @@ Approach: Employ problem-solving skills to model weather patterns across cities.
    
    - Southern Hemisphere: Wind Speed vs. Latitude
         
-* Analyze each pair of plots, discussing linear regression modeling, observed relationships, and any noteworthy findings.
+* Analyze each pair of plots, discussing the modeling of linear regression, observed relationships, and any noteworthy findings.
     
 # Part 2: VacationPy
 
-* Utilize Jupyter Notebooks, the geoViews Python library, and the Geoapify API to plan future vacations based on weather data.
+* Utilize Jupyter notebooks, the geoViews Python library, and the Geoapify API to plan future vacations based on weather data.
    
 * Import necessary libraries and load the CSV file containing weather and coordinates data for each city from Part 1.
 
@@ -102,6 +102,6 @@ Approach: Employ problem-solving skills to model weather patterns across cities.
 * Implement these steps in the VacationPy.ipynb starter code and visualize the resulting map with humidity-based point sizes.
 
 ## References:
-To perform the above analysis, the following references were used: 
+In order to perform the above analysis,the following references were used: 
 
- citipy Python library (link)  and the OpenWeatherMap API (link)
+ citipy Python library  and the OpenWeatherMap API 
